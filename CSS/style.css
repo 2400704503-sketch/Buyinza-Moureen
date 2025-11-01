@@ -1,0 +1,239 @@
+*{
+	background: ivory;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+	.Home-page h1{
+		text-align: center;
+		background-color: skyblue;
+		color: white;
+
+	}
+	.Home-page h3{
+		text-align: center;
+		background-color: skyblue;
+		padding: 10px;
+		color: white;
+	}
+	.Home-page p{
+		text-align: center;
+		background-color: skyblue;
+		padding: 10px;
+	}
+	
+	
+	header img{
+		width: 100%;
+		max-width: 150px;
+		height: auto;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
+		
+	.Home-page .right img{
+		width: 100%;
+		height: auto;
+		object-fit: contain;
+		max-width: 450px;
+
+	}
+	 video{
+	 	display: grid;
+	 	align-items: center;
+	 	justify-content: center;
+	 	width: 850px;
+	 	height: 100vh;
+	 	object-fit: cover;
+	 	margin:0 auto;
+
+
+	}
+	.right form input{
+		width: 100%;
+		display: block;
+		margin: 0 auto;
+		padding: 10px;
+		box-sizing: border-box;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+	}
+	.right{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 20px;
+		height: 100vh;
+	}
+	buttons{
+		color: soft green;
+	}
+	 input{
+		background-color: #E3F2FD;
+		border: 2PX solid #90caf9;
+		border-radius: 8px;
+		font-size: 16px;
+	}
+	 .nav {
+		margin: 0 5px;
+		text-align: center;
+		color: #007BFF;
+
+	}
+	.video a{
+		text-align: center;
+		justify-content: center;
+	}
+	.nav p{
+		margin: 10px 0 0;
+		font-size: 14px;
+		padding: 10px;
+	
+	}
+	.Home-page .Follow{
+		background-color: skyblue;
+	}
+	footer p{
+		margin: 0;
+		font-size: 20pxpx;
+		color: #666;
+		padding: 10px;
+		background-color: skyblue;
+	}
+	.design{
+		display: flex;
+		justify-content: space-between;
+		margin: 0 auto;
+
+	}
+	
+	
+	.About-page .img{
+		width: 250px;
+		height: auto;
+		display: contain;
+
+	}
+		.container{
+			display: flex;
+			gap: 10px;
+			justify-content: flex-start;
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 0;
+
+		}
+	
+	.About-page .right {
+		width: 50%;
+		height: 50%;
+		object-fit: contain;
+		display: block;
+		
+	}
+	.About-page .left{
+		width: 50%;
+		display: flex;
+		}
+		.development{
+			text-align: center;
+		
+		}
+		.About-page form input{
+			width: 50%;
+			padding: 10px;
+			border: 2px solid #ecf0f1;
+			border-radius: 4px;
+			box-sizing: border-box;
+			transition: border-color 0.3s ease;
+		}
+		.About-page footer{
+			text-align: center;
+
+		}
+		.Contact-page form{
+			text-align: center;
+			justify-content: center;
+			display: block;
+			color: #2c3e50;
+
+		}
+		.Contact-page form input{
+			width: 100%;
+			display: block;
+			margin: 0 auto;
+			padding: 10px;
+			box-sizing: border-box;
+		}
+		.Contact-page .left h1{
+			text-align: center;
+			padding-bottom: 10px;
+			font-size: 32px;
+			background-color: skyblue;
+		}
+		.Contact-page .left p{
+			text-align: center;
+			padding-bottom: 12px;
+			font-size: 23px;
+		}
+		.Contact-page .left textarea{
+			width: 100%;
+			border-radius: 5px;
+			border: 2px solid skyblue;
+
+		}
+		.Contact-page .contact h3{
+			text-align: center;
+			font-size: 25px;
+		}
+		.Contact-page .contact p{
+			text-align: center;
+			margin: 10px;
+		}
+		.Contact-page .Follow h3{
+			text-align: center;
+			font-size: 25px;
+		}
+		.Contact-page .Follow p{
+			text-align: center;
+
+		}
+		.Contact-page .Navigate p{
+			text-align: center;
+			padding: 5px;
+		}
+		.Contact-page .Navigate h3{
+			text-align: center;
+			padding: 5px;
+		}
+		.Contact-page footer{
+			text-align: center;
+			padding: 5px;
+		}
+		.Contact-page .container{
+			width: 100%;
+			text-align: center;
+			justify-content: center;
+		}
+		
+		
+	
+		
+	
+
+		
+			
+		
+
+		
+		
+
+
+
+	
+	
+
+
+	
+
